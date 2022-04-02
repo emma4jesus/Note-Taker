@@ -32,10 +32,15 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 # Screenshot
 
-# Deloy Link : https://github.com/emma4jesus/Note-Taker
+![screenshot](./public/assets/screenshot1.png)
+![screenshot](./public/assets/screenshot.png)
 
-# Contact:
+## Deloy Heroku Link :
 
-### Email: Emmanuelajeanbaptiste1@gmail.com
+https://note-taker-deloy.herokuapp.com/index.html
+
+## Contact:
+
+Email: Emmanuelajeanbaptiste1@gmail.com
 
 ### Github: https://github.com/emma4jesus
